@@ -1,4 +1,4 @@
-# moniARring_usoana-Ver-6
+# moniARring_usoana-Ver-6 (モニエアリング_ウソ穴 Ver 6.x)
 
 ## はじめに
 
@@ -6,5 +6,13 @@
 - クラウドファンディングについて
   - 2020/6/21 - 2020/6/30 の期間でプロジェクトを公開
   - プロジェクト成功には至りませんでしたが、8名の方から支援の申し出を頂きました！
-  - プロジェクト URL https://camp-fire.jp/projects/view/220412
+  - プロジェクト URL [https://camp-fire.jp/projects/view/220412](https://camp-fire.jp/projects/view/220412)
  
+## moniARring_usoana-Ver-6 (モニエアリング_ウソ穴 Ver 6.x)
+
+- 凹むARと動画再生を組み合わせたWebARコンテンツ
+- 凹むARで、壁に穴が空いたギミックを作る
+- 動画と組み合わせると、ユーザーに穴の向こう側が見えるような感覚を提供
+
+
+
