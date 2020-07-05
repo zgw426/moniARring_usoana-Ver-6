@@ -1,0 +1,10 @@
+このディレクトリに画像と動画データを格納する
+
+必要なデータ
+neighbor01-99.png
+neighbor01-Ring.png
+plate01.jpg
+room02.mp4
+tex000.jpg
+top3.png
+wall02.jpg
